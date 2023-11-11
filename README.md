@@ -19,8 +19,11 @@ This project being my first web application, was developed to obtain reasonable 
 # What is Model-View-Controller (MVC) ?
 
 The MVC pattern specifies that an application consists of three layers viz. Model, View and Controller. Each of these layers is separated into different objects. The overall components of such an application are easily manageable & are less dependent on each other for proper functioning.
+
 The **Model** consists of Plain-old-Java-objects representing the entities that are important to your application. For instance a shopping application would have domain objects representing items for purchase, shopping carts, credit cards, mailing addresses, accounts, reviews, and so forth. In this example of a Hotel Reservation System, entities have been created representing models for hotel details, user data, booking confirmation details and so on. Often these domain objects come from persistent storage such as a relational database. In this case, the Apache Derby Database has been utilized.
+
 The **View** is used to present the data stored in the model to the user. JSP pages are used as a view in this application. The view knows how to access data from the model however, it does not know how the user can manipulate this data. JSP pages alongside servlets are used to handle the business logic.
+
 The **Controller** is used to handle user interactions through incoming requests. This layer exists between the View and the Model. As the name suggests, it controls the application logic and consists of Java classes that run on application server.
 
 ![image](https://github.com/Mandar-1007/Hotel-Reservation-System/assets/112803135/6d7dc801-3b3b-48f1-b2c0-2ec722b9fc85)
