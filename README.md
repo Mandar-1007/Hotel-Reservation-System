@@ -1,4 +1,4 @@
-![image](https://github.com/Mandar-1007/Hotel-Reservation-System/assets/112803135/26797a39-49ce-47b1-8311-c5f316dfa1ba)# Overview
+# Overview
 
 This project is a Hotel reservation system - a Java EE application The front-end has been developed using HTML, CSS and Javascript whereas Apache derby database has been used for the back end. The business logic has been developed using the JSP and Servlets. Model-View-Controller (MVC) pattern has been used for the development. The main objective of this project is to design a hotel reservation system for running a hotel business. The Java EE components all run on the server side, on full Java EE server - GlassFish
 
