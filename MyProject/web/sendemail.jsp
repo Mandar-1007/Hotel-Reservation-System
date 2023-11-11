@@ -3,9 +3,9 @@
 <html>
     <head>
         <meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
-        <link href="login.css" rel="stylesheet" type="text/css"/>
-        <link href="header.css" rel="stylesheet" type="text/css"/>
-        <link href="background.css" rel="stylesheet" type="text/css"/>
+        <link href="css/login.css" rel="stylesheet" type="text/css"/>
+        <link href="css/header.css" rel="stylesheet" type="text/css"/>
+        <link href="css/background.css" rel="stylesheet" type="text/css"/>
         <title>JSP Page</title>
     </head>
    <body>

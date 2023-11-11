@@ -11,7 +11,7 @@
         <meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
         <title>JSP Page</title>
         <link href="header.jsp" rel="stylesheet" type="text/css"/>
-        <link href="background.css" rel="stylesheet" type="text/css"/>
+        <link href="css/background.css" rel="stylesheet" type="text/css"/>
     </head>
     <body>
         <jsp:include page="header.jsp"/>
