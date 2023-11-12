@@ -9,11 +9,17 @@ This project being my first web application, was developed to obtain reasonable 
 # Features included:
 
 • To register new users accessing the front end for the first time
+
 • Add/Edit hotels and relevant details such as name, location and images for the role of admin
+
 • Search availability of hotels based on checkin & checkout dates & book rooms for admin/regular user
+
 • View all available hotels for users to make further bookings
+
 • A section for viewing existing hotels that have been booked with an option to cancel them
+
 • Trigger emails and authenticate users using a one time password in case password is forgotten or has to be changed
+
 • Functionality to keep the logged in user signed in if the user wishes
 
 # What is Model-View-Controller (MVC) ?
@@ -40,28 +46,44 @@ It is a simple to use jQuery slider. Being highly customizable to fit web site d
 
 # How to setup the code
 
+• Download and install JAVA JDK 8
+
 • Clone the project in the IDE (NetBeans 8.2 or later)
+
 • In the services tab, right click on 'Java DB' and create a new JDBC connection with username & password as 'hotel'
+
 • Connect to the resulting connection and create databases as observed in the image below
 
 ![image](https://github.com/Mandar-1007/Hotel-Reservation-System/assets/112803135/7010d081-faa5-4012-b448-7298f627c820)
 
 • In the project explorer, navigate to Source Packages -> Others -> test.java and place your email accounts' username and password to enable triggering mails for OTP
+
 • In browser settings, under Privacy and Security tab, select No Protection under Safe Browsing temporarily.
+
 • Select Google Chrome as the default browser, right click on home.jsp and run the file
 
 ![image](https://github.com/Mandar-1007/Hotel-Reservation-System/assets/112803135/73d286e1-20de-447e-ae37-ca1e088f7cfa)
 
 
-# Screenshots
+# How the application works
 
 https://github.com/Mandar-1007/Hotel-Reservation-System/assets/112803135/10b5e24f-8606-4e08-b254-3730f1c45b56
 
+
+![login](https://github.com/Mandar-1007/Hotel-Reservation-System/assets/112803135/0f5defcb-89d2-4b46-a42c-0820593ec5ba)
+
+
+https://github.com/Mandar-1007/Hotel-Reservation-System/assets/112803135/1801a8dd-b392-4d35-b7fc-ddd8803a7b3c
+
+
 ![image](https://github.com/Mandar-1007/Hotel-Reservation-System/assets/112803135/9b984141-de2f-4024-b15c-1510e86709db)
+
 
 ![image](https://github.com/Mandar-1007/Hotel-Reservation-System/assets/112803135/d126f63c-06c5-42e8-bb4a-e18650b06f8e)
 
+
 ![image](https://github.com/Mandar-1007/Hotel-Reservation-System/assets/112803135/2f316c83-3339-497e-9e65-12198a4dd1c7)
+
 
 ![image](https://github.com/Mandar-1007/Hotel-Reservation-System/assets/112803135/34c6390f-fa40-4a1c-8ead-6a54f85bdb75)
 
