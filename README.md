@@ -82,9 +82,6 @@ https://github.com/Mandar-1007/Hotel-Reservation-System/assets/112803135/1801a8d
 ![image](https://github.com/Mandar-1007/Hotel-Reservation-System/assets/112803135/d126f63c-06c5-42e8-bb4a-e18650b06f8e)
 
 
-![image](https://github.com/Mandar-1007/Hotel-Reservation-System/assets/112803135/2f316c83-3339-497e-9e65-12198a4dd1c7)
-
-
 ![image](https://github.com/Mandar-1007/Hotel-Reservation-System/assets/112803135/34c6390f-fa40-4a1c-8ead-6a54f85bdb75)
 
 
